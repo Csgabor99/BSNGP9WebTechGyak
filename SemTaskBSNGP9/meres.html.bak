@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Méréstechnika</title>
+ </head>
+	<body style="background:#99ff99; background:url('kepek/hatter4.jpg'); background-size: cover; background-repeat: no repeat; background-position: center; background-attachment: fixed; font-family:tahoma">
+
+	
+
+	<h2><u>Méréstechnika tematikája</u></h2>
+
+	<a href="https://www.youtube.com/channel/UCP77RTASD81uM_g62K94bug" target="_blank"><img src="kepek/meres.jpg" height="250" border="2" align="right"></a>
+
+	<br><br><br><br><br><br><br><br><br>
+
+
+
+
+	<font size="5pt" color="black"><u>Tantárgy feladata és célja:</u>
+
+
+		<br>
+	
+			A számítógéppel vezérelt mérőrendszerek elméleti ismerete és gyakorlatban rendszerintegrátori szintű megismerése.
+	
+		<br>
+		<br>
+		<br>
+
+			<u>Tárgy tematikus leírása:</u>
+
+		<br>
+
+
+			Digitális mérési módszerek. A digitális adatfeldolgozás elvi kérdései. DMM. Számítógépes mérőrendszerek felépítése és jellemzői. Multiplexelt és szimultán mintavételezők. Mintavételezés törvénye, kvantálás szabályai, mintavételezési és konverziós frekvencia. Érzékelők, átalakítók, ezek típusai, jellemzői és felhasználási területei. Analóg jelkondicionálók, D/A és A/D átalakítók. Multifinkcionális mérésadatgyűjtők jellemzői, analóg bemenet, analóg kimenet, digitális be- és kimenetek, számláló időzítő. Analóg bemenet alkalmazásának jellemzői, mintavételezési módszerek, triggerelt mintavételezés. Vezérlő-és jelfeldolgozó szoftverek, alapvető szoftver szolgáltatások gyakorlati alkalmazása. Analóg bemenetek és kimenetek alkalmazása. Mintavételezett jelek frekvencia analízise és statisztikus analízise.
+
+	</font>
+		
+		<br><br><br><br><br><br><br><br>
+		<a href="SemTaskBSNGP9.html"> <font size="5pt" color="#99ffff">Ide kattintva visszaléphet a főoldalra.</font></a>
+		<br><br><br>
+
+		<footer style="font-size:14pt; color:black" id="lablec" class="lablec">
+		Forrás:
+			<a href="https://geik.uni-miskolc.hu/intezetek/EEI/adatlap.hu.php?i=169" target="ujablak" style="color:white">
+				https://geik.uni-miskolc.hu/intezetek/EEI/adatlap.hu.php?i=169
+			</a>
+		</footer>
+ </body>
+</html>

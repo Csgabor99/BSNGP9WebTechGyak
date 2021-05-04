@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Bevezetés az autóelektronikába</title>
+  
+ </head>
+ <body style="background:#99ff99; background:url('kepek/hatter4.jpg'); background-size: cover; background-repeat: no repeat; background-position: center; background-attachment: fixed; font-family:tahoma">
+
+	
+
+	<h2><u>Bevezetés az autóelektronikába, tematikája</u></h2>
+
+		<img src="kepek/auto.jpg" height="250" border="2" align="right">
+
+	<br><br><br><br><br><br><br><br><br>
+
+
+
+
+	<font size="5pt" color="black"><u>Tantárgy feladata és célja:</u>
+
+
+		<br>
+	
+			Megismertetni a személygépkocsi villamos berendezéseinek működési alapjait tekintettel az elektronikai eszközök széleskörű alkalmazására.
+
+
+
+		<br>
+		<br>
+		<br>
+
+			<u>Tárgy tematikus leírása:</u>
+
+		<br>
+
+
+				A gépkocsi villamos hálózatának elvi felépítése, akkumulátor-generátor-fogyasztók rendszerének energia egyensúlya, követelmények, kapcsolási rajzok. Multiplex kommunikációs hálózat. Indító akkumulátorok felépítése, jellemzői, töltése. Karbantartásmentes akkumulátorok. Generátorok felépítése, működése, jellemzői. Feszültség szabályozás. Indítómotorok felépítése, működése, jellemzői. Tekercses és kondenzátoros gyújtóberendezések felépítése, működése, jellemzői. Katalizátor. Oxigén-szonda. Benzinbefecskendező rendszerek felépítése, működése, jellemzői. Diesel-befecskendező rendszerek. Részecske-szűrők. Biztonsági rendszerek, a gépjármű világítása.
+
+
+	</font>
+		
+		<br><br><br><br><br><br><br><br><br><br><br>
+		<a href="SemTaskBSNGP9.html"> <font size="5pt" color="#99ffff">Ide kattintva visszaléphetünk a főoldalra</font></a>
+		<br><br><br>
+
+		<footer style="font-size:14pt; color:black" id="lablec" class="lablec">
+		Forrás:
+			<a href="https://geik.uni-miskolc.hu/intezetek/EEI/adatlap.hu.php?i=173" target="ujablak" style="color:white">
+				https://geik.uni-miskolc.hu/intezetek/EEI/adatlap.hu.php?i=173
+			</a>
+		</footer>
+ </body>
+</html>

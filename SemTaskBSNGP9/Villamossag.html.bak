@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+
+  <title>Villamosságtan III</title>
+ </head>
+ <body style="background:#99ff99; background:url('kepek/hatter4.jpg'); background-size: cover; background-repeat: no repeat; background-position: center; background-attachment: fixed; font-family:tahoma">
+
+	
+
+	<h2><u>Villamosság III tematikája</u></h2>
+
+		<img src="kepek/tesla.jpg" height="250" border="0" align="right">
+
+	<br><br><br><br><br><br><br><br><br>
+
+
+
+
+	<font size="5pt" color="black"><u>Tantárgy feladata és célja:</u>
+
+
+		<br>
+	
+			A tranziens jelenségek számolási módszereinek elsajátítása idő és frekvencia tartományban. A Fourier transzformáció megismertetése.
+
+		<br>
+		<br>
+		<br>
+
+			<u>Tárgy tematikus leírása:</u>
+
+		<br>
+
+
+			Átmeneti jelenségek bevezetése. Stacionárius és tranziens megoldás. Tranziens megoldás differenciál egyenlettel. Időállandó fogalma. Laplace transzformáció fogalma. Laplace transzformáció tulajdonságai. Derivált és integrál transzformációja. Speciális vizsgálójelek, egységugrás, Dirac-delta. Alap függvények Laplace transzformáltja (ε (t), δ(t), t, sin(ωt) cos(ωt), stb.). Laplace transzformáció legfontosabb tételei. Inverz Laplace transzformáció résztörtekre bontással. Kifejtési tétel. Operátoros impedanciák. Laplace transzformáció alkalmazása nem energiamentes kezdőállapot esetén. Bekapcsolás jelenség. Kikapcsolás jelenség. Átkapcsolási jelenség. Megoldás periodikus gerjesztés esetén. Kezdeti és végérték tétel. Kapcsolat az idő- és a frekvenciatartomány között. Periodikus jelek Laplace transzformáltja. Átviteli függvény, súlyfüggvény, átmeneti függvény. Konvolúció tétel. Duhamel tétel. A Fourier sor alkalmazása periodikus gerjesztésű áramkörök számításánál. Többhullámú feszültségek és áramok. A teljesítmény számítása többhullámú gerjesztésű hálózatokban.
+
+
+	</font>
+		
+		<br><br><br><br><br><br><br><br>
+		<a href="SemTaskBSNGP9.html"> <font size="5pt" color="#99ffff">Ide kattintva visszaléphet a főoldalra.</font></a>
+		<br><br><br>
+
+		<footer style="font-size:14pt; color:black" id="lablec" class="lablec">
+		Forrás:
+			<a href="https://geik.uni-miskolc.hu/intezetek/EEI/adatlap.hu.php?i=166" target="_blank" style="color:white">
+				https://geik.uni-miskolc.hu/intezetek/EEI/adatlap.hu.php?i=166
+			</a>
+		</footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ </body>
+</html>
